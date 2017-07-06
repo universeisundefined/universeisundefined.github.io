@@ -1,0 +1,2 @@
+*AngularJS sample example (It is a book search engine, dynamically taking data from a json file. 
+Please use firefox to run it, as a server is needed for chrome for data call)

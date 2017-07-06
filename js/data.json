@@ -1,0 +1,44 @@
+[
+  {
+"name":"The Philosopher's Stone","shortname":"thephilosopherstone",
+"authorname":"J.K.Rowling"}, 
+{
+"name":"The Chamber of Secrets","shortname":"thechamberofsecrets",
+"authorname":"J.K.Rowling"},
+{
+"name":"The Prisoner of Azkaban","shortname":"theprisonerofazkaban",
+"authorname":"J.K.Rowling"},
+{
+"name":"The Goblet of Fire","shortname":"thegobletoffire",
+"authorname":"J.K.Rowling"},
+{
+"name":"The Order of the Phoenix",
+"shortname":"theorderofthephoenix","authorname":"J.K.Rowling"},
+{
+"name":"The Half-Blood Prince","shortname":"thehalfbloodprince",
+"authorname":"J.K.Rowling"},
+{
+"name":"The Deathly Hallows","shortname":"thedeathlyhallows",
+"authorname":"J.K.Rowling"},
+{
+"name":"A Game of Thrones","shortname":"agameofthrones",
+"authorname":"George RR Martin"},
+{
+"name":"A Clash of Kings","shortname":"aclashofkings",
+"authorname":"George RR Martin"},
+{
+"name":"A Storm of Swords",
+"shortname":"astormofswords","authorname":"George RR Martin"},
+{
+"name":"A Feast for Crows",
+"shortname":"afeastforcrows","authorname":"George RR Martin"},
+{
+"name":"A Dance with Dragons",
+"shortname":"adancewithdragons","authorname":"George RR Martin"},
+{
+"name":"The Winds of Winter","shortname":"thewindsofwinter",
+"authorname":"George RR Martin"},
+{
+"name":"The Martian","shortname":"themartian",
+"authorname":"Andy Weir"} ]
+
